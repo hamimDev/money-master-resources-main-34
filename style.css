@@ -1,0 +1,198 @@
+.all-this{
+    width: 100%;
+    height: auto;
+    background: #FFF;
+    text-align: center; 
+}
+#Money-Master{
+    color: #31A5AC;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center; 
+}
+.flex-id{
+    display: flex;
+}
+#bg-img{
+    background: url(img/Pexels\ Photo\ by\ Karolina\ Grabowska.png);
+    background-repeat: no-repeat;
+    background-size: 705px 900px;
+    width: 705px;
+    height: 900px;
+    flex-shrink: 0;
+    
+}
+#funtion{
+    width: 542px;
+    height: 815px;
+    flex-shrink: 0;
+    background: #F8F8F8;
+    margin-left: 3%;
+}
+#margin-l{
+    margin-left: 144px;
+}
+#Income{
+    color: #000;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 10%;
+    text-align: center;
+}
+.input-parant{
+    display: flex;
+    align-items: center;
+    padding-top: 5%;
+}
+#input-parant-id-1{
+    margin-left: 15%;
+}
+#input-parant-id-2{
+    margin-left: 18%;
+}
+#input-parant-id-3{
+    margin-left: 19%;
+}
+#input-parant-id-4{
+    margin-left: 14%;
+}
+
+input{
+    color: black;
+}
+.input-write{
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.input-fil{
+    width: 229px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 2px;
+    background: #DCDCDC;
+    padding-left: 5%;
+    margin-left: 5%;
+}
+#Expenses{
+    color: #000;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 10%;
+    text-align: center;
+}
+.fast-btn-field{
+    width: 199px;
+    height: 51px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #59A5FF;
+    box-shadow: 0px 4px 18px 0px rgba(0, 0, 0, 0.10);
+    margin-top: 10%;
+}
+#fast-btn{
+    margin-top: 5%;
+    color: #FFF;
+    background: #59A5FF;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#Total-Expenses{
+    color: #000;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 6%;
+}
+#Balance{
+    color: #000;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top:8%;
+}
+#parsent-field{
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+}
+#Save{
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 15%;
+}
+#parseint-Value{
+    width: 132px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 2px;
+    background: #DCDCDC;
+    text-align: center;
+    font-size: 100%;
+    margin-left: 12px;
+}
+#parsent-icon{
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 2%;
+}
+#Save-2{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 173px;
+    height: 38px;
+    flex-shrink: 0;
+    border-radius: 2px;
+    background: #59A5FF;
+    padding-top: 2%;
+}
+#Saving{
+    color: #000;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 5%;
+}
+#Remaining-Balance-1{
+    color: #000;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 5%;
+}
